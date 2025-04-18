@@ -1,0 +1,9 @@
+.card {
+    margin-bottom: 1rem;
+}
+.navbar-nav {
+    flex-direction: row;
+}
+.nav-item {
+    margin-left: 1rem;
+}
